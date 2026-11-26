@@ -1,4 +1,4 @@
-# 🅿️ Sistema de Gestão de Parque de Estacionamento
+# Sistema de Gestão de Parque de Estacionamento
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue)
@@ -11,7 +11,7 @@ O projeto foi desenvolvido no âmbito da disciplina de Estrutura de Dados e Algo
 
 ---
 
-## 📑 Índice
+## Índice
 
 1. [Problema identificado](#-problema-identificado)
 2. [Solução aplicada](#-solução-aplicada)
@@ -28,7 +28,7 @@ O projeto foi desenvolvido no âmbito da disciplina de Estrutura de Dados e Algo
 
 ---
 
-## ❗ Problema identificado
+## Problema identificado
 
 Os parques de estacionamento geridos manualmente enfrentam vários problemas:
 
@@ -41,7 +41,7 @@ Os parques de estacionamento geridos manualmente enfrentam vários problemas:
 
 ---
 
-## ✅ Solução aplicada
+## Solução aplicada
 
 O sistema resolve os problemas acima com os seguintes elementos:
 
@@ -56,7 +56,7 @@ O sistema resolve os problemas acima com os seguintes elementos:
 
 ---
 
-## 🛠️ Stack utilizada
+## Stack utilizada
 
 | Componente         | Tecnologia                                         |
 | ------------------ | -------------------------------------------------- |
@@ -69,7 +69,7 @@ O sistema resolve os problemas acima com os seguintes elementos:
 
 ---
 
-## 📋 Regras de negócio
+## Regras de negócio
 
 ### Entrada de veículo
 
@@ -134,7 +134,7 @@ O gestor pode alternar entre `LIVRE` e `MANUTENCAO` com o **botão direito do ra
 
 ---
 
-## ⚙️ Como funciona o sistema
+## Como funciona o sistema
 
 ### Estrutura de pastas
 
